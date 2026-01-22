@@ -1,0 +1,2 @@
+# calcforgeprivacy
+privacy policy
